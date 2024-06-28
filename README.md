@@ -32,3 +32,4 @@
 - Descobrir constantes NumPy úteis para cálculos científicos.
 - Salvar e carregar arrays para persistência de dados.
 
+<img src="https://iaexpert.academy/certificates/numpy-essencial-para-desenvolvedores-python/?course_id=44925&user=3387&direct=3387&cert-nonce=98fd77bb2d" />
