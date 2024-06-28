@@ -1,4 +1,4 @@
-```markdown
+
 # Tópicos cobertos:
 
 ## ndarrays (a classe fundamental do NumPy) e seus atributos
@@ -31,4 +31,4 @@
 - Gerar números aleatórios com diferentes distribuições de probabilidade.
 - Descobrir constantes NumPy úteis para cálculos científicos.
 - Salvar e carregar arrays para persistência de dados.
-```
+
